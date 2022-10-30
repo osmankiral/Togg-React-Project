@@ -13,7 +13,7 @@ const Find = () => {
   return (
     <div className={styles.find}>
         <div className={styles.heading}>
-            <h1>Find your drive</h1>
+            <h1>Find your color</h1>
             <div className={styles.text_bg}>
                 <p>
                     <span>Explore the Turkey's electric car</span>
